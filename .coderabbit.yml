@@ -1,0 +1,11 @@
+#...
+reviews:
+  #...
+  tools:
+    ast-grep:
+      essential_rules: true
+      rule_dirs:
+        - "rules"
+      util_dirs:
+        - "utils"
+  #...
